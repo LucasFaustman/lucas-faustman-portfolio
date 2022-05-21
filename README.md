@@ -4,7 +4,7 @@ Built using HTML, CSS, and Javascript. My portfolio site which includes past pro
 
 Link to project: https://lucasfaustman.com/
 
-![PortfolioScreenshotGithub](https://user-images.githubusercontent.com/99927513/167511584-d73fcfc9-5efd-48f0-8397-92a37a7cdf0d.png)
+<img src="https://media.giphy.com/media/PkeZIrx9RkRPJtruZi/giphy.gif" height="100%" />
 
 
 ## How It's Made:
