@@ -21,3 +21,11 @@ I'm happy with my portfolio as of now. I decided not to embed complicated links 
 ## Lessons Learned:
 
 Colors on a webpage matter! I linked my portfolio on Twitter and a user gave me a critique that all my buttons were the same color. I quickly agreed and changed them so the contact buttons are the most eye-catching, which will bring more eyes to it, and hopefully more conversions! I learned the power of color in this project when styling.
+
+## Examples
+
+Take a look at these other examples that I have in my portfolio:
+
+Local Freelance Makeup Artist: https://github.com/LucasFaustman/local-makeup-artist-website
+
+myPlayer.io: https://github.com/LucasFaustman/nba-Stat-Project
