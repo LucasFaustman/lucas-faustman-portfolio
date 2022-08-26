@@ -29,3 +29,9 @@ Take a look at these other examples that I have in my portfolio:
 Local Freelance Makeup Artist: https://github.com/LucasFaustman/local-makeup-artist-website
 
 myPlayer.io: https://github.com/LucasFaustman/nba-Stat-Project
+
+My Small CRM : https://github.com/LucasFaustman/my-small-crm/tree/main
+
+Vancouver StarGazers Society APOD Web App with NASA API integration: https://github.com/LucasFaustman/vancouver-stargazers
+
+Vancouver Life Hack Voter : https://github.com/LucasFaustman/life-hacks-project
