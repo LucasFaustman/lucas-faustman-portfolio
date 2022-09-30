@@ -34,4 +34,4 @@ My Small CRM : https://github.com/LucasFaustman/my-small-crm/tree/main
 
 Vancouver StarGazers Society APOD Web App with NASA API integration: https://github.com/LucasFaustman/vancouver-stargazers
 
-Vancouver Life Hack Voter : https://github.com/LucasFaustman/life-hacks-project
+BillTrackr: https://github.com/Ash1eyC0des/bill-trackr
