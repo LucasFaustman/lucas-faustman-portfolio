@@ -1,4 +1,4 @@
-# My Portfolio 2022
+# Lucas Faustman Portfolio
 
 Built using HTML, CSS, and Javascript. My portfolio site which includes past projects and links to get in touch with me.
 
